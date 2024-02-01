@@ -15,7 +15,7 @@ Sigue estos pasos para ejecutar la aplicación en tu entorno local.
 1. Clona este repositorio:
 
    ```bash
-   git clone https://github.com/tu-usuario/lista-de-tareas-app.git
+   git clone https://github.com/Enzogz98/Ej4TpReact.git
 2. Navega al directorio del proyecto
 3. Instala las dependencias:
     ```bash
